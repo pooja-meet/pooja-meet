@@ -34,13 +34,22 @@ MongoDB | SQL
 Git | GitHub | VS Code | Postman | Thunder Client
 
 ---
+---
 
+## 📸 Project Previews & Live Links
+
+Aap niche diye gaye table mein mere projects ke visual previews dekh sakte hain aur directly unke active deployment ya source code par jaa sakte hain:
+
+| 🛒 Customer VegThali Panel | 💬 LiveChat13 Sign-in Screen | 👤 Developer Portfolio |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/040de8ef-0a11-497a-99a1-689c7de3d90e"  width="100%"/>
+| <img src="https://github.com/user-attachments/assets/0303285c-ca0b-490f-acd5-71086f5384d9" alt="LiveChat Sign In" width="100%"/>
+| <img src="https://github.com/user-attachments/assets/77660451-62bc-4e97-bbbd-32a3f7575698" width="100%" alt="Pooja Rawat Portfolio"/> |
+| [🔗 Live URL](https://itsthali.netlify.app) \| [💻 Source Code](https://github.com/pooja-mmet/VegThali-git) 
+| [🔗 Live URL](https://livechat13.netlify.app) \| [💻 Source Code](https://github.com/pooja-meet/VegThali.git)
+| [🔗 Live URL](https://itsdev13.netlify.app) \| [💻 Source Code](https://github.com/your-username/portfolio-repo) |
+---
 ## 🚀 Projects
-<p align="center">
-<img width="1890" height="912" alt="image" src="https://github.com/user-attachments/assets/da24f248-d4b7-4739-a15b-96b22d010daa" />
-<img width="1890" height="912" alt="image" src="https://github.com/user-attachments/assets/1f8a7b46-01cc-4c22-863b-d7cec3e7463b" />
-<img width="1890" height="912" alt="image" src="https://github.com/user-attachments/assets/d39a23bc-2751-4c79-a292-0497221b7a67" />
-</p>
 ### 💬 WhatsApp Clone
 
 * Real-time chat functionality
