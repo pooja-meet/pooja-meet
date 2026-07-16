@@ -36,7 +36,11 @@ Git | GitHub | VS Code | Postman | Thunder Client
 ---
 
 ## 🚀 Projects
-
+<p align="center">
+<img width="1890" height="912" alt="image" src="https://github.com/user-attachments/assets/da24f248-d4b7-4739-a15b-96b22d010daa" />
+<img width="1890" height="912" alt="image" src="https://github.com/user-attachments/assets/1f8a7b46-01cc-4c22-863b-d7cec3e7463b" />
+<img width="1890" height="912" alt="image" src="https://github.com/user-attachments/assets/d39a23bc-2751-4c79-a292-0497221b7a67" />
+</p>
 ### 💬 WhatsApp Clone
 
 * Real-time chat functionality
