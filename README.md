@@ -41,13 +41,12 @@ Git | GitHub | VS Code | Postman | Thunder Client
 Aap niche diye gaye table mein mere projects ke visual previews dekh sakte hain aur directly unke active deployment ya source code par jaa sakte hain:
 
 | 🛒 Customer VegThali Panel | 💬 LiveChat13 Sign-in Screen | 👤 Developer Portfolio |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/040de8ef-0a11-497a-99a1-689c7de3d90e"  width="100%"/>
-| <img src="https://github.com/user-attachments/assets/0303285c-ca0b-490f-acd5-71086f5384d9" alt="LiveChat Sign In" width="100%"/>
-| <img src="https://github.com/user-attachments/assets/77660451-62bc-4e97-bbbd-32a3f7575698" width="100%" alt="Pooja Rawat Portfolio"/> |
-| [🔗 Live URL](https://itsthali.netlify.app) \| [💻 Source Code](https://github.com/pooja-mmet/VegThali-git) 
-| [🔗 Live URL](https://livechat13.netlify.app) \| [💻 Source Code](https://github.com/pooja-meet/VegThali.git)
-| [🔗 Live URL](https://itsdev13.netlify.app) \| [💻 Source Code](https://github.com/your-username/portfolio-repo) |
+| <img src="https://github.com/user-attachments/assets/040de8ef-0a11-497a-99a1-689c7de3d90e"  width="60%"/>
+| [🔗 Live URL](https://itsthali.netlify.app) \| [💻 Source Code](https://github.com/pooja-meet/VegThali.git) 
+| <img src="https://github.com/user-attachments/assets/0303285c-ca0b-490f-acd5-71086f5384d9" alt="LiveChat Sign In" width="60%"/>
+| [🔗 Live URL](https://livechat13.netlify.app) \| [💻 Source Code](https://github.com/pooja-meet/whatsapp-web-clone.git)
+| <img src="https://github.com/user-attachments/assets/77660451-62bc-4e97-bbbd-32a3f7575698" width="60%" alt="Pooja Rawat Portfolio"/> |
+| [🔗 Live URL](https://itsdev13.netlify.app) \| [💻 Source Code](https://github.com/pooja-meet/Portfolio.git) 
 ---
 ## 🚀 Projects
 ### 💬 WhatsApp Clone
